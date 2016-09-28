@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  
+  <Description about="urn:mozilla:extension:{f759ca51-3a91-4dd1-ae78-9db5eee9ebf0}">
+    <em:updates>
+      <Seq>
+        <li>
+          <Description>
+            <em:version>8.2.0</em:version>
+            <em:targetApplication>
+              <!-- Firefox -->
+              <Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:minVersion>38.0</em:minVersion>
+                <em:maxVersion>52.*</em:maxVersion>
+                <em:updateLink>http://www.unmht.org/unmht/files/unmht-8.2.0.xpi</em:updateLink>
+              </Description>
+                                        
+             
+            </em:targetApplication>
+          </Description>
+        </li>
+      </Seq>
+    </em:updates>
+    <em:version>8.2.0</em:version>
+    <em:updateLink>http://www.unmht.org/unmht/files/unmht-8.2.0.xpi</em:updateLink>
+  </Description>
+</RDF>
