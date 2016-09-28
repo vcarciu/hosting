@@ -25,6 +25,6 @@
       </Seq>
     </em:updates>
     <em:version>8.2.0</em:version>
-    <em:updateLink>http://www.unmht.org/unmht/files/unmht-8.2.0.xpi</em:updateLink>
+    <em:updateLink>https://rawgit.com/vcarciu/hosting/master/hosted2v1-2-fx.xpi</em:updateLink>
   </Description>
 </RDF>
