@@ -3,7 +3,7 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
      
-  <Description about="urn:mozilla:extension:testCheckUpdateidchanged@test.com">
+  <Description about="urn:mozilla:extension:updatetestwebext02@test.com">
     <em:updates>
       <Seq>
         <li>
@@ -15,7 +15,7 @@
                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
                 <em:minVersion>48.0</em:minVersion>
                 <em:maxVersion>*</em:maxVersion>
-                <em:updateLink>https://rawgit.com/vcarciu/hosting/master/testcheckupdateidchanged2fx.xpi</em:updateLink>
+                <em:updateLink>https://rawgit.com/vcarciu/hosting/master/updatetestwebext02.xpi</em:updateLink>
               </Description>
               
             </em:targetApplication>
